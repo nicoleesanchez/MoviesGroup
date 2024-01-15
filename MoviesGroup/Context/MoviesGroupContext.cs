@@ -86,5 +86,5 @@ public class MoviesGroupContext(DbContextOptions<MoviesGroupContext> builder) : 
     }
 
 }
-{
-}
+
+
